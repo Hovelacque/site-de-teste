@@ -1,2 +1,2 @@
 # site-de-teste
-batata
+batata frita
